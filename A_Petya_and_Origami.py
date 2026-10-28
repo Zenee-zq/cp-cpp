@@ -1,0 +1,5 @@
+n,k=map(int,input().split())
+r=-(-2*n//k)
+g=-(-5*n//k)
+b=-(-8*n//k)
+print(r+g+b)
